@@ -1,0 +1,27 @@
+{
+  "name": "spreadjs-server",
+  "version": "0.0.1",
+  "description": "![djso](djso.png)",
+  "main": "spread.js",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "readline": "^1.3.0",
+    "socket.io": "^2.5.0",
+    "socket.io-client": "^2.5.0",
+    "tinyify": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spreadjs/spreadjs-server.git"
+  },
+  "author": "Marco Boelling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spreadjs/spreadjs-server/issues"
+  },
+  "homepage": "https://github.com/spreadjs/spreadjs-server#readme"
+}
