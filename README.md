@@ -2,7 +2,6 @@
 
 ![djso](djso.png)
 
-
 ## Get started
 
 Install:
@@ -10,7 +9,6 @@ Install:
 ```shell
 npm i spreadjs-server
 ```
-
 
 ## Usage
 
@@ -23,6 +21,18 @@ node index.js
 ```
 
 ### Use the client
+
+Install:
+
+```shell
+npm i spreadjs-client
+```
+
+ or
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/spreadjs/spread/spread-browser.js" />
+```
 
 ```javascript
 // Initialize. All instances share the same websocket connection
